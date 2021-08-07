@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://portalinfosul.com.br/wp-content/uploads/2020/06/01-g-1-easy-resize.com-.jpg);
+    background-repeat: repeat;
+}
+
+
+h1 ,h2{
+    background-color: black
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+table{
+    font-size: 30px;
+    padding: 10px 10px;
+    margin:40px 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+

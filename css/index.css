@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.BYj4Pp4jMQ2DaOALgarsBQHaEK?pid=ImgDet&rs=1);
+}
+img{
+    text-align:center;
+    margin-right: 300px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+button{
+    margin-top: 10px;
+    color: chartreuse;
+}
